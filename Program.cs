@@ -44,28 +44,6 @@ do
 
 
 
-    // Console.WriteLine("Ingrese el primero numero: ");
-
-
-    // int a = Convert.ToInt32(Console.ReadLine());  // convierte lo que ingreso por teclado a entero?
-
-
-
-    // // anda =int.TryParse(ingreso, out ingreso);
-
-    //   Console.WriteLine("Ingrese el segundo numero: ");
-
-
-    //  int b = Convert.ToInt32(Console.ReadLine());
-
-    // // anda =int.TryParse(ingreso, out ingreso);
-
-    // Console.WriteLine("Elija una opcion: ");
-
-    //     Console.WriteLine("1/ -Sumar-  2/ -Restar  3/-Multiplicar ");
-
-     
-    //  opcion=Convert.ToInt32(Console.ReadLine());
 
            switch (opcion)
     {
